@@ -1,0 +1,3 @@
+http://classes.tju.edu.cn/eams/stdElectCourse!batchOperator.action?profileId=1441
+classid
+cookie
